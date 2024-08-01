@@ -254,8 +254,6 @@
 #                    print(3)
 #                elif uart.readchar() == 4:
 #                    print(4)
-
-
 #Base_threshold = (34, 69, -21, 1, -30, 77) # 白天底色阈值
 #B_threshold = (7, 54, -64, 10, -29, 45)      # 黑色阈值
 #W_threshold = (73, 100, -12, 47, -9, 62) # 白色阈值
